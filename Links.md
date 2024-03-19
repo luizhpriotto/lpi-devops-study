@@ -29,8 +29,8 @@
 Started \| Linux Professional
 Institute](https://www.lpi.org/blog/2018/01/09/devops-tools-introduction-01-getting-getting-started-started)
 
-- [x] [DevOps Tools Engineer Objectives V1 - LPI
-Wiki](https://wiki.lpi.org/wiki/DevOps_Tools_Engineer_Objectives_V1)
+- [x] [DevOps Tools Engineer Objectives V2 - LPI
+Wiki](https://wiki.lpi.org/wiki/DevOps_Tools_Engineer_Objectives_V2.0)
 
 ##  2. <a name='ModernSoftwareDevelopment'></a>Modern Software Development
 
