@@ -51,6 +51,8 @@ Institute](https://www.lpi.org/blog/2018/01/16/devops-tools-introduction-02-mode
 - [X]  [Don't start with a
 monolith](https://martinfowler.com/articles/dont-start-monolith.html)
 
+- [X]  [Tigh Coupling vs Loose Coupling](https://nordicapis.com/the-difference-between-tight-coupling-and-loose-coupling/)
+
 - [ ]  [An Introduction to API's -- The RESTful
 Web](https://developer.ibm.com/articles/ws-restful/)
 
