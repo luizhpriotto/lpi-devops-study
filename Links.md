@@ -53,13 +53,15 @@ monolith](https://martinfowler.com/articles/dont-start-monolith.html)
 
 - [X]  [Tigh Coupling vs Loose Coupling](https://nordicapis.com/the-difference-between-tight-coupling-and-loose-coupling/)
 
-- [ ]  [An Introduction to API's -- The RESTful
+- [X]  [An Introduction to API's -- The RESTful
 Web](https://developer.ibm.com/articles/ws-restful/)
 
-- [ ]  [JSON:API --- A specification for building APIs in
+- [X]  [JSON:API --- A specification for building APIs in
 JSON](https://jsonapi.org/)
 
-- [ ]  [OWASP](https://www.owasp.org/index.php/Main_Page)
+- [X] [SOA vs Microservices](https://www.ibm.com/think/topics/soa-vs-microservices)
+
+- [X]  [OWASP](https://www.owasp.org/index.php/Main_Page)
 
 - [ ]  [Cross-site Scripting (XSS) -
 OWASP](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
