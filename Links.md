@@ -44,15 +44,15 @@ Institute](https://www.lpi.org/blog/2018/01/16/devops-tools-introduction-02-mode
 
 - [x]  [EnterpriseApplication](https://martinfowler.com/bliki/EnterpriseApplication.html) [![alt handout-link](img/handout-20.png)](handouts/EnterpriseApplication.md)
 
-- [ ]  [Microservices](https://martinfowler.com/articles/microservices.html)
+- [X]  [Microservices](https://martinfowler.com/articles/microservices.html)
 
-- [ ]  [ImmutableServer](https://martinfowler.com/bliki/ImmutableServer.html)
+- [X]  [ImmutableServer](https://martinfowler.com/bliki/ImmutableServer.html)
 
-- [ ]  [Don't start with a
+- [X]  [Don't start with a
 monolith](https://martinfowler.com/articles/dont-start-monolith.html)
 
 - [ ]  [An Introduction to API's -- The RESTful
-Web](https://restful.io/an-introduction-to-api-s-cee90581ca1b)
+Web]([https://restful.io/an-introduction-to-api-s-cee90581ca1b](https://developer.ibm.com/articles/ws-restful/)
 
 - [ ]  [JSON:API --- A specification for building APIs in
 JSON](https://jsonapi.org/)
