@@ -63,7 +63,7 @@ JSON](https://jsonapi.org/)
 
 - [X]  [OWASP](https://www.owasp.org/index.php/Main_Page)
 
-- [ ]  [Cross-site Scripting (XSS) -
+- [x]  [Cross-site Scripting (XSS) -
 OWASP](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
 
 - [ ]  [SQL Injection - OWASP](https://www.owasp.org/index.php/SQL_Injection)
