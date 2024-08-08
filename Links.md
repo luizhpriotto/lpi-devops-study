@@ -52,7 +52,7 @@ Institute](https://www.lpi.org/blog/2018/01/16/devops-tools-introduction-02-mode
 monolith](https://martinfowler.com/articles/dont-start-monolith.html)
 
 - [ ]  [An Introduction to API's -- The RESTful
-Web]([https://restful.io/an-introduction-to-api-s-cee90581ca1b](https://developer.ibm.com/articles/ws-restful/)
+Web](https://developer.ibm.com/articles/ws-restful/)
 
 - [ ]  [JSON:API --- A specification for building APIs in
 JSON](https://jsonapi.org/)
